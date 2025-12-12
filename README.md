@@ -40,16 +40,23 @@
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg](https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif)" width="45"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="45"/>&nbsp;
+  <img src="https://private-user-images.githubusercontent.com/74038190/238200431-3c16d4f2-b757-4c70-8f42-43d5dddd2c36.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1NDQwMDIsIm5iZiI6MTc2NTU0MzcwMiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzEtM2MxNmQ0ZjItYjc1Ny00YzcwLThmNDItNDNkNWRkZGQyYzM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjEyVDEyNDgyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2ZWU3Zjk2NjJmNTRiMWUyNDFhNTIxNDlmMTc1OTMwZjZmYzI1NGE3NzliNDQyOWM1Y2M5MTdlYTU4YmU5MDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bksiLhHqwkNfwJ_WQpRKAihc_7_V_lM6x9btQfgwOns" width="45"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45"/>&nbsp;
+   <img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1NDQwMDIsIm5iZiI6MTc2NTU0MzcwMiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjEyVDEyNDgyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwODliMzYzNzZlNzlmNDJlODAyNzVlZTFhODZjZDU5NWZkZTljNmQ0YTI2OWQ4OWI5Nzc2MWZmNzY0ODM0YjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BM-vXBSqFBUNkfPRpfPq9mZ0eahHF9d-SQzgeziWXP0" width="45"/>&nbsp;
+  
+  
+  
 </p>
 
 ---
@@ -57,16 +64,16 @@
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/sarthaksingh">
+  <a href="https://www.linkedin.com/in/sarthak-singh-in/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
   </a>
-  <a href="mailto:yourEmail@gmail.com">
+  <a href="mailto:sarthaksingh2709@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://x.com/yourId">
+  <a href="https://x.com/sarthaksxngh">
     <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge"/>
   </a>
-  <a href="https://instagram.com/yourId">
+  <a href="https://instagram.com/sarthaksxngh">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge"/>
   </a>
 </p>
