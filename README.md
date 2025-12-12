@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
+<img width="500" height="53" alt="image" src="https://github.com/user-attachments/assets/ad03a80c-3192-45bb-95be-e51d4126c219" /><h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
 <h3 align="center">Android & Backend Developer | Blockchain Enthusiast | AI & ML Learner</h3>
 
 <p align="center">
@@ -19,9 +19,8 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="650" alt="tech-run-gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="650" alt="pixel banner/>
 </p>
-
 ---
 
 ## 🧰 Tech Stack
