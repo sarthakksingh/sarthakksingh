@@ -19,10 +19,9 @@
 ---
 
 <p align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="650" alt="pixel banner/>
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="650" alt="tech-run-gif" />
 </p>
+
 ---
 
 ## 🧰 Tech Stack
@@ -41,30 +40,6 @@
   <img class="icon-anim" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45" alt="vscode-gif" />&nbsp;
   <img class="icon-anim" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45" alt="js-gif" />&nbsp;
 </p>
-
-<style>
-/* Icon hover animation used in profile README (safe & lightweight) */
-.icon-anim {
-  transition: transform 220ms ease, filter 220ms ease;
-  vertical-align: middle;
-}
-.icon-anim:hover {
-  transform: translateY(-6px) scale(1.12);
-  filter: drop-shadow(0 8px 18px rgba(0,255,170,0.12));
-}
-
-/* Project card small helper (used later) */
-.proj-card {
-  display: block;
-  padding: 12px;
-  border-radius: 8px;
-  margin-bottom: 18px;
-  background: rgba(255,255,255,0.01);
-  box-shadow: 0 1px 0 rgba(255,255,255,0.02) inset;
-}
-.proj-title { font-weight: 700; font-size: 15px; margin-bottom: 6px; }
-.tech-row img { margin-right: 8px; margin-bottom: 6px; vertical-align: middle; }
-</style>
 
 ---
 
@@ -85,7 +60,7 @@
 - ☁️ **AWS Academy Cloud Foundations**
 - 🏗️ **System Design Fundamentals** — scalability, caching, load balancing, microservices, API design
 - ⚙️ **Backend Engineering with Spring Boot** — REST APIs, JWT auth, PostgreSQL, clean architecture
-- 🔍 **DSA Mastery** — Striver A2Z Sheet + strong focus on problem-solving on Codeforces & LeetCode
+- 🔍 **DSA Mastery** — Striver A2Z Sheet + strong focus on problem solving on Codeforces & LeetCode
 
 ---
 
