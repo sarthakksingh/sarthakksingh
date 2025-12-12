@@ -2,8 +2,9 @@
 <h3 align="center">Android & Backend Developer | Blockchain Enthusiast | AI & ML Learner</h3>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1NDI5OTQsIm5iZiI6MTc2NTU0MjY5NCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjEyVDEyMzEzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1OGFjYmM0ODYyNmE3Y2NlNDhlY2ZlNjZhMWI0MGJhNmYzMDU4YjEyYmVmMmUwZDhhZWIwYzkwOGRlZmRhYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wt2dUBKZCNngQpsH-l7qgwoDQayPo037mCfN7xSX0tM" width="650" alt="pixel banner/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="650" alt="pixel banner/>
 </p>
+
 
 ---
 
@@ -13,27 +14,14 @@
 - 🌱 I’m learning **Spring Boot, AWS, AI/ML models & Web3 fundamentals**
 - 👯 I’m looking to collaborate on **Android, Backend & AI-based projects**
 - 💬 Ask me about **Kotlin, Jetpack Compose, Firebase, Retrofit, REST APIs, Spring Boot**
-- 📫 Reach me at **yourEmail@gmail.com**
-- ⚡ Fun fact: **I break things to understand how they work 😄**
+- 📫 Reach me at **sarthaksingh2709@gmail.com**
+- ⚡ Fun fact: **I run between my tech stack same as the gif below  😄**
 
 ---
 
-## 🛠️ What I'm Working On
-
-- 📱 Building modern Android apps using **Kotlin + Jetpack Compose**
-- 🧠 Learning **ML basics** & exploring **LLMs, embeddings & model integration**
-- 🔗 Understanding **Blockchain fundamentals (Solidity, Web3.js, smart contracts)**
-- ☁️ Exploring **AWS Cloud Concepts**
-
----
-
-## 📘 What I'm Learning
-
-- 🔥 **Spring Boot + Backend Architecture**
-- 🎯 **AI/ML fundamentals** (classical ML + integrating LLM APIs)
-- 🧱 **Blockchain + Smart Contracts**
-- ☁️ **AWS Academy Cloud Foundations**
-- 🧩 **DSA with Striver’s A2Z Sheet**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="650" alt="pixel banner/>
+</p>
 
 ---
 
@@ -61,6 +49,33 @@
 
 ---
 
+## 🛠️ What I'm Working On
+
+- 📱 Building modern Android apps using **Kotlin + Jetpack Compose**
+- ⚙️ Developing backend services with Spring Boot — REST APIs, authentication, PostgreSQL, and scalable architectures
+- 🧠 Learning **ML basics** & exploring **LLMs, embeddings & model integration**
+- 🔗 Understanding **Blockchain fundamentals (Solidity, Web3.js, smart contracts)**
+- ☁️ Exploring **AWS Cloud Concepts**
+
+---
+
+## 📘 What I'm Learning
+
+- 🎯 **AI/ML fundamentals** (classical ML + integrating LLM APIs)
+- 🧱 **Blockchain + Smart Contracts**
+- ☁️ **AWS Academy Cloud Foundations**
+- 🏗️ System Design Fundamentals — scalability, caching, load balancing, microservices, API design
+- ⚙️ Backend Engineering with Spring Boot — REST APIs, JWT auth, PostgreSQL, clean architecture
+- 🔍 DSA Mastery — Striver A2Z Sheet + strong focus on problem-solving on codeforces and leetcode
+
+
+
+
+  
+
+
+---
+
 ## 🔗 Connect With Me
 
 <p>
@@ -80,21 +95,78 @@
 
 ---
 
-## 📂 Featured Projects
+## 🧩 Featured Projects
 
-### 🔹 **CricScore – A Modern Cricket Scoring App (Android)**
-- Live scoring, match history, Room DB  
-- Jetpack Compose + MVVM + Kotlin  
-- *(Add repo link here)*
+---
 
-### 🔹 **DealSpy – Price Comparison App**
-- Gemini API integrated search  
-- BottomNav + Compose UI  
-- *(Add repo link here)*
+### 🌿 **NAMASTE Terminology Backend**
+> *Unified AYUSH × ICD-11 Clinical Terminology Platform*
 
-### 🔹 **Backend APIs with Spring Boot**
-- Authentication, CRUD, PostgreSQL  
-- *(Add repo link here)*
+A Spring Boot backend that unifies **AYUSH (NAMASTE)** concepts with **ICD-11 (TM2 + Biomedicine)**.  
+Includes terminology search, mappings, CSV import, and PostgreSQL persistence.
+
+#### ⚙️ Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" class="icon-anim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" class="icon-anim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" class="icon-anim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="42" class="icon-anim"/>
+</p>
+
+🔗 **Repository:** https://github.com/sarthaksxngh/namaste-terminology-backend
+
+---
+
+### 🏏 **CricScore – Modern Cricket Scoring App**
+> *A lightweight & fast cricket scoring app with real-time updates.*
+
+- Live scoring with ball-by-ball updates  
+- Match history saved using Room DB  
+- Built using **Jetpack Compose + MVVM + Kotlin**  
+- Clean UI & scoring logic with strike rotation, extras, free-hit, and no-ball handling
+
+#### ⚙️ Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="42" class="icon-anim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42" class="icon-anim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" class="icon-anim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" class="icon-anim"/>
+</p>
+
+🔗 **Repository:** *(https://github.com/sarthaksxngh/CricScore)*
+
+---
+
+### 🛒 **DealSpy – Price Comparison App**
+> *AI-powered e-commerce deal finder using Gemini API.*
+
+- AI-integrated product search using **Gemini API**  
+- Price comparison across multiple e-commerce platforms  
+- Clean UI with Bottom Navigation + Jetpack Compose  
+- Watchlist, save-for-later, and price-history features  
+
+#### ⚙️ Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="42" class="icon-anim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="42" class="icon-anim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" class="icon-anim"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" class="icon-anim"/>
+</p>
+
+🔗 **Repository:** *(https://github.com/sarthaksxngh/DealSpy)*
+
+---
+
+<style>
+.icon-anim {
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+.icon-anim:hover {
+  transform: scale(1.20);
+  filter: drop-shadow(0px 0px 6px #00ffaa);
+}
+</style>
+
 
 ---
 
