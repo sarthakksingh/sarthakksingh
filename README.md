@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarthak Singh</h1>
 <h3 align="center">Android & Backend Developer | Blockchain Enthusiast | AI & ML Learner</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakksingh&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakksingh" /> </p>
+
+
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1NjY4NDEsIm5iZiI6MTc2NTU2NjU0MSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjEyVDE5MDkwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2OThjNDg3MzlmOWQ1YzljOWVjYzY1ODc1YTVkNzUxZTgwMWQ4ZTFiN2Y1OTZhNzY1ODVmYzIyMjE3N2YwZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.H2MTxSUtsy9Rlpy5CxhBZpO43MEyryqDleDM-Xk2yFk" width="650" alt="pixel banner" />
 </p>
