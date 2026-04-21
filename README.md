@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 `whoami`
+## 🧠 `who am i`
 
 ```yaml
 name:  Sarthak Singh
