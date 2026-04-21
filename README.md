@@ -8,6 +8,11 @@
  ███████║██║  ██║██║  ██║   ██║   ██║  ██║██║  ██║██║  ██╗
  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/280b9860-24f2-4441-afdb-37bff55e8522" width="800" height="300"/>
+</p>
+
+
 
 # Sarthak Singh
 
@@ -187,5 +192,11 @@ I care about **clean architecture**, **low-latency APIs**, and **real problem so
 ---
 
 *"Code is read more often than it is written."*
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41b1faaf-8eef-4d8a-b0a7-7699a69ce608" width="900"/>
+</p>
+
+
 
 </div>
