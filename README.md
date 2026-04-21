@@ -25,6 +25,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarthakksingh&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
 
+<p align="center">
+  <a href="https://sarthak-singh.onrender.com/" target="_blank">
+    🔗 Website
+  </a>
+</p>
+
 </div>
 
 ---
